@@ -11,3 +11,4 @@ print("É um decimal? {}.".format(entrada.isdecimal()))
 print("Está em caixa baixa? {}.".format(entrada.islower()))
 print("É apenas espaço em branco? {}.".format(entrada.isspace()))
 print("Está em caixa alta? {}.".format(entrada.isupper()))
+
